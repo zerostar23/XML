@@ -1,1 +1,14 @@
-
+<bug_report>
+<1>
+  <Summary> При нажатии на кнопку покупки и оплате, приложение не начисляет виртуальные деньги пользователю.</Summary>
+  <Project> </Project>
+  <Enviroment> Honor 50 Lite 6, Android v.11 </Enviroment>
+  <Precondition> </Precondition> 
+  <Severity> Critical </Severity>
+  <Priority> High </Priority> 
+  <Steps to Reproduce> 1. Нажать на кнопку in-app покупки. 2. Выбрать вариант оплаты картой. 3. Нажать кнопку 'оплатить' </Steps to Reproduce>
+  <Actual Result> Google сообщает об удачной покупке. Приложение не начисляет виртуальные деньги пользователю. </Actual Result>
+  <Expected Result> Google сообщает об удачной покупке. Приложение начисляет виртуальные деньги пользователю. </Expected Result> 
+  <Attachments></Attachments>
+</1>
+</bug_report>
