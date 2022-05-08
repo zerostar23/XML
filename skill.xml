@@ -1,0 +1,21 @@
+<skills>
+	<s1> Теория тестирования </s2>
+	<s2> Клиент-серверная архитектура </2s1>
+	<s3> JSON, XML </s3>
+	<s4> Тестирование API </s4>
+	<s5> Чтение и снятие логов </s5>
+	<s6> Postman, Fidler </s6>
+	<s7> VPN </s7>
+	<s8> Dev Tools </s8>
+	<s9> Тестирование мобильных приложений </s9>
+	<s10> Android Studio, XCode </s10>
+	<s11> Снифферы: Charlies Proxy </s11>
+	<s12> Terminal Ubuntu </s12>
+	<s13> BASH </s13>
+	<s14> Удалённый доступ </s14>
+	<s15> SQL </s15>
+	<s16> Git </s16>
+	<s17> Jmeter </s17>	
+	<s18> Scrum </s18>
+	<s19> Python </s19>
+</skills>
